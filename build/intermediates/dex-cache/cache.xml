@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/samriddhi/AndroidStudioProjects/Facts/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/samriddhi/AndroidStudioProjects/Facts/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-7af13006d24fb33c15d282535a219493121dda01.jar" />
+    </item>
+    <item
+        jar="/home/samriddhi/AndroidStudioProjects/Facts/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/samriddhi/AndroidStudioProjects/Facts/app/build/intermediates/pre-dexed/debug/classes-08c15610680361008d2f390cc97e468414587493.jar" />
+    </item>
+    <item
+        jar="/home/samriddhi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/samriddhi/AndroidStudioProjects/Facts/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-a3e605f87c53c2c99b7a9a6103c60469a320c05a.jar" />
+    </item>
+    <item
+        jar="/home/samriddhi/AndroidStudioProjects/Facts/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/samriddhi/AndroidStudioProjects/Facts/app/build/intermediates/pre-dexed/debug/classes-17237933220d8e877f5a2f9a9eae1a8c871209d6.jar" />
+    </item>
+
+</items>
